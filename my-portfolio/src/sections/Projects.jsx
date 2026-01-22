@@ -230,7 +230,7 @@ const projects = [
       ],
     },
   ],
-  link: "https://example.com",
+  link: "https://docs.google.com/presentation/d/1nAN5fqt74ikoghzC_OgvrocwGfTqWypp/edit?usp=drive_link&ouid=112779289381552962082&rtpof=true&sd=true",
   repo: "https://github.com/high244/Project-VP",
   images: [
     "/projects/Kasir/1.png",

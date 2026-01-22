@@ -33,31 +33,6 @@ export default function Contact() {
               </svg>
             </a>
 
-            {/* WhatsApp */}
-            <a
-              className="icon-btn"
-              href="https://wa.me/6282118996996"
-              target="_blank"
-              rel="noreferrer"
-              aria-label="WhatsApp"
-              title="WhatsApp"
-            >
-              <svg width="20" height="20" viewBox="0 0 24 24" fill="none" aria-hidden="true">
-                <path
-                  d="M20 11.5c0 4.142-3.582 7.5-8 7.5a8.56 8.56 0 0 1-3.708-.83L4 19l1.02-3.53A7.215 7.215 0 0 1 4 11.5C4 7.358 7.582 4 12 4s8 3.358 8 7.5Z"
-                  stroke="currentColor"
-                  strokeWidth="1.8"
-                  strokeLinejoin="round"
-                />
-                <path
-                  d="M9.2 9.2c.2-.6.3-.6.7-.6h.6c.2 0 .4 0 .5.3l.7 1.7c.1.2 0 .4-.1.6l-.5.6c-.2.2-.2.4 0 .6.5.9 1.3 1.7 2.2 2.2.2.2.4.2.6 0l.6-.5c.2-.2.4-.2.6-.1l1.7.7c.3.1.3.3.3.5v.6c0 .4 0 .5-.6.7-.8.2-2.6.1-4.7-2-2.1-2.1-2.2-3.9-2-4.7Z"
-                  stroke="currentColor"
-                  strokeWidth="1.5"
-                  strokeLinejoin="round"
-                />
-              </svg>
-            </a>
-
             {/* LinkedIn */}
             <a
               className="icon-btn"
