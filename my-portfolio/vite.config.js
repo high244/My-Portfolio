@@ -3,5 +3,5 @@ import react from "@vitejs/plugin-react-swc";
 
 export default defineConfig({
   plugins: [react()],
-  base: "/My-Portfolio/", // penting: pakai trailing slash
+  base: "./", // penting: pakai trailing slash
 });
